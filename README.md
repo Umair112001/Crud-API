@@ -23,9 +23,6 @@ Returns a list of all students.
 Returns the student with the specified ID.
 
 ### Add a new student
-Returns the student with the specified ID.
-
-### Add a new student
 **Body (JSON):**
 json
 {
@@ -34,4 +31,12 @@ json
   "age": 20
 }
 
+### DELETE /api/student/{id}
+json
+{
+  "id": 1,
+  "name": "Jane Doe",
+  "age": 21
+}
 
+### DELETE /api/student/{id}
