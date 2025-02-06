@@ -31,7 +31,7 @@ json
   "age": 20
 }
 
-### DELETE /api/student/{id}
+### Update a student
 json
 {
   "id": 1,
