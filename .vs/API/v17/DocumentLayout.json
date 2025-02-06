@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair Ali\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB0023B-DA48-4430-AC24-1FE1089D7A42}|API\\API.csproj|c:\\users\\umair ali\\source\\repos\\api\\api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB0023B-DA48-4430-AC24-1FE1089D7A42}|API\\API.csproj|solutionrelative:api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB0023B-DA48-4430-AC24-1FE1089D7A42}|API\\API.csproj|C:\\Users\\Umair Ali\\source\\repos\\API\\api\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB0023B-DA48-4430-AC24-1FE1089D7A42}|API\\API.csproj|solutionrelative:api\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Umair Ali\\source\\repos\\API\\API\\Students.cs",
+              "RelativeDocumentMoniker": "API\\Students.cs",
+              "ToolTip": "C:\\Users\\Umair Ali\\source\\repos\\API\\API\\Students.cs",
+              "RelativeToolTip": "API\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:34:43.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair Ali\\source\\repos\\API\\API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Umair Ali\\source\\repos\\API\\API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:34:04.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
